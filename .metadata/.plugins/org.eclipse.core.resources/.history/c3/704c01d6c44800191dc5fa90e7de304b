@@ -1,0 +1,42 @@
+package com.class9;
+
+import java.util.Scanner;
+
+public class BuyItem {
+//Ask user to enter the item they want to buy
+//and  the price for the item. Then ask user to pay for it.
+//Every time user enters money accumulate the amount and tell 
+//user how much is left to pay off the amount. Whenever user done with 
+//payments tell them "Thank you for shopping!"
+	
+	public static void main(String[] args) {
+
+		String item;
+		int pay;
+		int price=0;
+		int money;
+		int i;
+		
+		Scanner input=new Scanner(System.in);
+		System.out.println("enter item you want to buy");
+		item=input.nextLine();
+		System.out.println("enter price for item");
+		price=input.nextInt();
+		System.out.println("please pay for it");
+		pay=input.nextInt();
+		
+		for(i=price; pay<price;i++) {
+			System.out.println("enter price for item");
+			price=input.nextInt();
+
+			if(i==pay) {
+				System.out.println("Thank you for shopping!");
+			}else {
+				System.out.println(price+" amount is left to pay off the item");
+				price=input.nextInt();
+			}
+		}
+		
+	}
+
+}

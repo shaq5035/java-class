@@ -1,0 +1,33 @@
+package com.class6;
+
+import java.util.Scanner;
+
+public class StringSwitch {
+
+	public static void main(String[] args) {
+		Scanner input;
+		String country;
+		String favFood;
+		
+		Scanner scanner = input= new Scanner(System.in);
+		System.out.println("Please enter country");
+		country=input.nextLine();
+		
+		switch (country) {
+		
+		case "Usa":
+			favFood= "burger";
+			break;
+		case "Russia":
+			favFood= "pelmeni";
+			break;
+		case "Pakistan":
+			favFood="biryani";
+			break;
+		default:
+			favFood="Unknown";
+			}
+		System.out.println("Your favorite food is "+favFood);
+	}
+
+}

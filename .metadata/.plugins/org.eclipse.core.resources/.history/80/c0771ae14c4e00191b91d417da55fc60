@@ -1,0 +1,22 @@
+package com.class12;
+
+public class StringManipulations {
+
+	public static void main(String[] args) {
+		//length function/or method -return number of character of string
+		String str="Hello";
+		
+		int lengthOfString=str.length();
+		System.out.println(lengthOfString);
+		
+		String str1="Eagles all day";
+		int lengthOfThat=str1.length();
+		System.out.println(lengthOfThat);
+		//
+		String str3= "burger";
+		String newString=str3.toUpperCase();
+		System.out.println(newString);
+		
+	}
+
+}

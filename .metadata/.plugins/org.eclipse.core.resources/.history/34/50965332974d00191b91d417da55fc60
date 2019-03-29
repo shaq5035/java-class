@@ -1,0 +1,18 @@
+package com.class11;
+
+public class RetrivingAllValues {
+	public static void main(String[] args) {
+		
+		int[][]num= {
+				
+				{1,2,3,4},
+				{2,4,6,8,},
+				{3,6,9,12},
+		};
+		int rows=num.length;
+		System.out.println(rows);
+		int col=num[2].length;
+		System.out.println(col);
+	}
+
+}

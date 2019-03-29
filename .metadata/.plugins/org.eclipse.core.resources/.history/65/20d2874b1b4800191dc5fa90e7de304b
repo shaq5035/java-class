@@ -1,0 +1,21 @@
+package com.class9;
+
+public class Task4 {
+
+	public static void main(String[] args) {
+		//Print the following pattern:
+		//*
+		//**
+		//***
+		//****
+		//*****
+		//****
+		//***
+		//**
+		//*
+		
+		
+		
+	}
+
+}

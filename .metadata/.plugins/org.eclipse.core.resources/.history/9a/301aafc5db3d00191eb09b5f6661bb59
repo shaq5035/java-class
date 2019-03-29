@@ -1,0 +1,50 @@
+package com.class6;
+
+import java.util.Scanner;
+
+public class Task1 {
+
+	public static void main(String[] args) {
+		
+		int temp;
+		
+		Scanner input= new Scanner(System.in);
+		System.out.println("Please enter temperature");
+		temp=input.nextInt();
+		boolean rain=true;
+		boolean snow=true;
+		boolean sunny=true;
+		
+		
+		if (temp>=40 && temp <=80) {
+			System.out.println("Is it raining");
+			rain=input.nextBoolean();	
+			if(rain) {
+				System.out.println("I will not go hiking");
+			}else {
+				System.out.println("I will go hiking");
+			}
+		}else if (temp>=25 && temp<40) {
+				if(snow) {
+				System.out.println("I will go snowborading");
+				snow=input.nextBoolean();
+				
+			}else {
+				System.out.println("I will not go snowboarding");
+			}
+		}else if (temp>80) {
+			if (sunny) {
+				System.out.println("I will go to the beach");
+				sunny=input.nextBoolean();
+			}else {
+				System.out.println("I will not go to the beach");
+			}
+		}else {
+			System.out.println("Please enter different temp");
+		}
+		
+		
+
+	}
+
+}

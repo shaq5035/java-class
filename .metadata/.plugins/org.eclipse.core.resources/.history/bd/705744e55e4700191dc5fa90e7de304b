@@ -1,0 +1,23 @@
+package com.class8;
+
+public class Home {
+
+	public static void main(String[] args) {
+		int x=1;
+
+		do{
+
+		   x++;
+
+		   System.out.print(x);
+
+		}while(x<5);
+
+
+
+
+
+		}
+}
+
+

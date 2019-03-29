@@ -1,0 +1,9 @@
+package reviewSession2;
+
+public class TaskString {
+
+	public static void main(java.lang.String[] args) {
+		String para="The quick brown fox jumps over the lazy dog.";
+	}
+
+}

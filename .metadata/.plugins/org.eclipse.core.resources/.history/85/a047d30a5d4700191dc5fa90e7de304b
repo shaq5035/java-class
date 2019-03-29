@@ -1,0 +1,24 @@
+package com.class8;
+
+public class Home {
+
+	public static void main(String[] args) {
+		char code = 'C' ;
+		double discount;
+		switch ( code )
+		{
+		case 'A':
+		discount = 0.0;
+
+		case 'B':
+		discount = 0.1;
+
+		case 'C':
+		discount = 0.2;
+
+		default:
+		discount = 0.3;
+		}
+	}
+
+}

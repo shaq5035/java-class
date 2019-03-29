@@ -1,0 +1,46 @@
+2019-02-18 21:17:59,374 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-20 15:32:17,641 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-02-24 10:40:05,753 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-03 16:57:29,076 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-10 10:06:09,693 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-18 13:43:13,345 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-28 16:22:49,433 [Worker-760: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/waqemhaq/eclipse-workspace/com.haq/pom.xml
+2019-03-28 16:22:50,560 [Worker-760: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.orangeKeem:com.haq:0.0.1-SNAPSHOT @ /Users/waqemhaq/eclipse-workspace/com.haq/pom.xml.
+2019-03-28 16:22:50,773 [Worker-760: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.haq/src/main/java
+2019-03-28 16:22:50,776 [Worker-760: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.haq/src/test/java
+2019-03-28 16:22:50,919 [Worker-760: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-03-28 16:22:51,338 [Worker-764: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:22:51,338 [Worker-764: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/waqemhaq/eclipse-workspace/com.haq/src/main/resources
+2019-03-28 16:22:51,341 [Worker-764: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:22:51,341 [Worker-764: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/waqemhaq/eclipse-workspace/com.haq/src/test/resources
+2019-03-28 16:22:51,875 [Worker-760: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2019-03-28 16:22:51,895 [Worker-760: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
+2019-03-28 16:22:51,916 [Worker-760: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2019-03-28 16:22:51,918 [Worker-760: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
+2019-03-28 16:22:52,390 [Worker-763: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:22:52,390 [Worker-763: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/waqemhaq/eclipse-workspace/com.haq/src/main/resources
+2019-03-28 16:22:52,393 [Worker-763: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:22:52,393 [Worker-763: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/waqemhaq/eclipse-workspace/com.haq/src/test/resources
+2019-03-28 16:28:45,087 [Worker-763: Launching Executing install in _Users_waqemhaq_eclipse-workspace_com.haq] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/waqemhaq/eclipse-workspace/com.haq
+2019-03-28 16:28:45,093 [Worker-763: Launching Executing install in _Users_waqemhaq_eclipse-workspace_com.haq] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-28 16:28:49,461 [Worker-768: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:28:49,461 [Worker-768: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/waqemhaq/eclipse-workspace/com.haq/src/main/resources
+2019-03-28 16:28:49,463 [Worker-768: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:28:49,463 [Worker-768: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/waqemhaq/eclipse-workspace/com.haq/src/test/resources
+2019-03-28 16:28:55,826 [Worker-768: Launching Executing clean in _Users_waqemhaq_eclipse-workspace_com.haq] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/waqemhaq/eclipse-workspace/com.haq
+2019-03-28 16:28:55,826 [Worker-768: Launching Executing clean in _Users_waqemhaq_eclipse-workspace_com.haq] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-28 16:28:57,283 [Worker-761: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:28:57,283 [Worker-761: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/waqemhaq/eclipse-workspace/com.haq/src/main/resources
+2019-03-28 16:28:57,285 [Worker-761: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:28:57,286 [Worker-761: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/waqemhaq/eclipse-workspace/com.haq/src/test/resources
+2019-03-28 16:29:02,317 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-03-28 16:33:10,187 [Worker-767: Launching Executing install in _Users_waqemhaq_eclipse-workspace_com.haq] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/waqemhaq/eclipse-workspace/com.haq
+2019-03-28 16:33:10,189 [Worker-767: Launching Executing install in _Users_waqemhaq_eclipse-workspace_com.haq] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-28 16:33:13,857 [Worker-771: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:33:13,858 [Worker-771: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/waqemhaq/eclipse-workspace/com.haq/src/main/resources
+2019-03-28 16:33:13,859 [Worker-771: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:33:13,859 [Worker-771: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/waqemhaq/eclipse-workspace/com.haq/src/test/resources
+2019-03-28 16:33:34,171 [Worker-771: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:33:34,171 [Worker-771: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/waqemhaq/eclipse-workspace/com.haq/src/main/resources
+2019-03-28 16:33:34,173 [Worker-771: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-28 16:33:34,173 [Worker-771: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/waqemhaq/eclipse-workspace/com.haq/src/test/resources

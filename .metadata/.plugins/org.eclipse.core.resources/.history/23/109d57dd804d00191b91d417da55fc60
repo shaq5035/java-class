@@ -1,0 +1,11 @@
+package com.class11;
+
+public class Country {
+
+	public static void main(String[] args) {
+
+		String[] country= {"USA","Pakistan","Japan"};
+		for(String :country)
+	}
+
+}

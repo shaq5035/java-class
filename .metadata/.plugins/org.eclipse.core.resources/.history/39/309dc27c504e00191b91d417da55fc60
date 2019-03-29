@@ -1,0 +1,20 @@
+package com.class12;
+
+public class StringManipulations2 {
+
+	public static void main(String[] args) {
+
+		String str="Good morning, students";
+		boolean contains=str.contains("morning");
+		System.out.println(contains);
+		
+		String present="Welcome, shaban";
+		String needed="Welcome,";
+		
+		boolean flag= present.contains("Welcome,");
+		System.out.println(flag);
+		boolean flag1=present.toLowerCase().contains(needed);
+		System.out.println(flag1);
+	}
+
+}
